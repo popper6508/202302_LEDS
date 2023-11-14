@@ -1,2 +1,2 @@
 # 202302_LEDS
-2023년 2학기 노동경제학과 데이터사이언스
+2023-2 Labor Economics and Data Science
